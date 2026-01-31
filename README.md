@@ -10,7 +10,7 @@ The dashboard helps stakeholders understand customer purchasing behavior, identi
 
 ## 📸 Dashboard Preview
 *(Please upload your dashboard screenshot here and update the filename below)*
-![Dashboard Preview](path_to_your_image.png)
+![Dashboard Preview](https://github.com/AdarshPandey-22/E-Commerce-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
 ## 🎯 Problem Statement
 To analyze the sales transaction data of the e-commerce store to solve key business problems, including:
